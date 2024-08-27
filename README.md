@@ -1,1 +1,1 @@
-# rust-basics
+# rust-practice
